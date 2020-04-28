@@ -4,8 +4,8 @@ gem 'octokit', '~> 2.0'
 gem 'hashie'
 gem "awesome_print", git: "git@github.com:michaeldv/awesome_print.git"
 
-gem 'pry', :group => :development
+gem "pry", :group => :development
 
 group :test do
-gem 'rspec'
+gem "rspec"
 end
